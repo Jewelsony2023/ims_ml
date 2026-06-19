@@ -1,0 +1,4 @@
+Model,MAPE
+Prophet,37.28
+LightGBM,38.26
+ARIMA,67.32
